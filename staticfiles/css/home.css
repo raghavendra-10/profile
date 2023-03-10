@@ -1,0 +1,16 @@
+.body{
+    background: rgb(2,0,36);
+    background: linear-gradient(172deg, rgba(2,0,36,1) 0%, rgba(158,0,167,1) 100%);
+}
+.profile{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text{
+    color: white;
+    font-size: 17px;
+}
